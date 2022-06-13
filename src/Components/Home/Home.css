@@ -1,0 +1,56 @@
+.i_phone{
+    width: 80%;
+    padding-top: 20px;
+
+}
+.items{
+    border: 1px solid rgb(247, 244, 244);
+    width: 50%;
+    text-align: center;
+    margin: 35px;
+    box-shadow: 1px 1px 21px 8px;
+    color: darkgray;
+    border-radius: 12px;
+    line-height: 30px;
+
+
+}
+.d-flex{
+    display: flex;
+}
+.products button{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(57, 202, 57);
+    border: none;
+    font-weight: 400;
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+
+.products span{
+    color: darkcyan;
+    padding: 20px;
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#iphone{
+    width: 55%;
+}
+#one{
+    width: 70%;
+
+}
+.notfound{
+    text-align: center;
+    color: brown;
+    font-size: 50px;
+    min-height: 88vh;
+}
+.number{
+    background-color: brown;
+}
+
+.number h1{
+text-align: right;
+}
